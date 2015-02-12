@@ -1,0 +1,5 @@
+D:\Learning\1.WCF\FileNameChanger\FileNameChanger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Learning\1.WCF\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.exe
+D:\Learning\1.WCF\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.pdb
+D:\Learning\1.WCF\FileNameChanger\FileNameChanger\obj\x86\Debug\FileNameChanger.exe
+D:\Learning\1.WCF\FileNameChanger\FileNameChanger\obj\x86\Debug\FileNameChanger.pdb
