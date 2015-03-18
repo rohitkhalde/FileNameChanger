@@ -1,1 +1,6 @@
 test file
+
+Added new feature1
+
+
+Added feature2
