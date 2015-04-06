@@ -26,7 +26,8 @@ namespace FileNameChanger
                     newName = newName.Replace('<', ' ').Trim();
                     string checkName = newName + ".xml";
                     i++;
-                    //File.Move(file, diretoryPath + i + "." + newName + ".xml");
+                    File.Move(file, diretoryPath + i + "." + newName + ".xml");
+		    Console.WriteLine("Renamed file{0}",newName);
                     //if (File.Exists(diretoryPath + checkName))
                     //{
                     //    i++;
