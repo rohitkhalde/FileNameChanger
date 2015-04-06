@@ -21,6 +21,7 @@ namespace FileNameChanger
                 if (!string.IsNullOrWhiteSpace(filedata) && filedata != "\0")
                 {
                     string newName = filedata.Substring(0, filedata.IndexOf(" "));
+		    Console.WriteLine("Newfile name");
 
                     newName = newName.Replace('<', ' ').Trim();
                     string checkName = newName + ".xml";
