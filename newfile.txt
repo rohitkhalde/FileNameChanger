@@ -8,3 +8,4 @@ Branch1 commit
 Adding new 3/4/2014
 
 Kuldeep has made his changes.hello kuldeep
+Ajit added a new line to newfile.txt
