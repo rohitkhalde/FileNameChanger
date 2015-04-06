@@ -1,0 +1,197 @@
+[33mcommit c47f0ca8d769844602aa12221512cbaab5b3e3cd[m
+Merge: 49b6875 be2c36d
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Mon Apr 6 07:44:47 2015 +0530
+
+    Merge pull request #8 from rohitkhalde/feature2
+    
+    Reviewed the changes..merged it
+
+[33mcommit be2c36df85d0c310e8134658b3af45fb30ced6db[m
+Merge: 8f43ebc 49b6875
+Author: rohitkhalde <rkhalde@tavisca.com>
+Date:   Mon Apr 6 07:30:49 2015 +0530
+
+    Merge branch 'develop' into feature2
+
+[33mcommit 49b6875f9b4f60932c0edca48fe398491fd82f28[m
+Author: rohitkhalde <rkhalde@tavisca.com>
+Date:   Mon Apr 6 07:28:29 2015 +0530
+
+    Print file name
+
+[33mcommit 8f43ebc6207f3f8aa26c9f46f6620d1a98bf3a98[m
+Author: rohitkhalde <rkhalde@tavisca.com>
+Date:   Mon Apr 6 07:25:26 2015 +0530
+
+    Writeline added to print git rename
+
+[33mcommit e74377c2efa1cd4ac4a24f981c539798660a5f7f[m
+Author: rohitkhalde <rkhalde@tavisca.com>
+Date:   Mon Apr 6 07:18:52 2015 +0530
+
+    Commented rename file
+
+[33mcommit 6c8af4476541c8534445ba643f6fac11b212490a[m
+Author: rohitkhalde <rohitkhalde@tavisca.com>
+Date:   Tue Mar 24 00:05:02 2015 +0530
+
+    added new data in master
+
+[33mcommit 73eaa8ca28feabe9171ff9646a105776460ada9d[m
+Author: rohitkhalde <rohitkhalde@tavisca.com>
+Date:   Mon Mar 23 23:57:26 2015 +0530
+
+    addded smaplefile
+
+[33mcommit e4c8eff1bbd2edc00c29af009f98b6104cea0ac4[m
+Merge: e37f1d4 1d998c2
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Wed Mar 18 16:55:14 2015 +0530
+
+    Merge pull request #7 from rohitkhalde/rohitkhalde-patch-2
+    
+    Update test.txt
+
+[33mcommit 1d998c2a512392e88f273b5cf53be4e8a6192e92[m
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Wed Mar 18 16:54:57 2015 +0530
+
+    Update test.txt
+
+[33mcommit e37f1d46ce15963cc537d27812b1706f8538c473[m
+Merge: e35fd39 5f027b3
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Wed Mar 18 16:48:13 2015 +0530
+
+    Merge pull request #6 from rohitkhalde/rohitkhalde-patch-1
+    
+    Update readMe.txt
+
+[33mcommit 5f027b39cd8a3bbdf906a98b6c51bec2a17d635f[m
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Wed Mar 18 16:47:40 2015 +0530
+
+    Update readMe.txt
+
+[33mcommit e35fd394cad81fe17899b52e194a40d234e215f9[m
+Merge: 1055898 48205f4
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Wed Mar 18 16:45:35 2015 +0530
+
+    Merge pull request #5 from rohitkhalde/feature1
+    
+    Changes looks good..merging it.
+
+[33mcommit 48205f4d7028d2c9d95cae6820db8d50c56219de[m
+Author: unknown <rkhalde@Naruto.internal.tavisca.com>
+Date:   Wed Mar 18 15:40:08 2015 +0530
+
+    Added new feature
+
+[33mcommit e6defae157b54c88f8e9f832681fee18d42cf4f1[m
+Author: unknown <rkhalde@Naruto.internal.tavisca.com>
+Date:   Wed Mar 18 15:20:03 2015 +0530
+
+    Added new changes
+
+[33mcommit 1055898774e19cdc9ad78c9248cdc1c4fb69a497[m
+Author: rohitkhalde <rohitkhalde@gmail.com>
+Date:   Wed Mar 4 11:31:57 2015 +0530
+
+    added new file
+
+[33mcommit 1337f42e3e3dde9e99ed972977e5788459dc0961[m
+Merge: 68ab8e7 250c7e9
+Author: Rahul Jadhav <rjadhav@tavisca.com>
+Date:   Thu Feb 12 14:29:35 2015 +0530
+
+    Resolved Conflicts
+
+[33mcommit 250c7e9a30a7088230f05bfeaf5f2b8a31fe1494[m
+Merge: f72d909 4e70947
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Thu Feb 12 14:17:29 2015 +0530
+
+    Merge pull request #3 from rohitkhalde/First_branch
+    
+    First branch changes added
+
+[33mcommit 68ab8e75e9843c2c4ba311f6bc6d936f541e6601[m
+Author: Rahul Jadhav <rjadhav@tavisca.com>
+Date:   Thu Feb 12 14:11:58 2015 +0530
+
+    Modified new file
+
+[33mcommit 4e70947714d3684e3d85867c5e0eaf6e0a0925cc[m
+Author: Rohit K <rohitkhalde@gmail.com>
+Date:   Thu Feb 12 14:06:35 2015 +0530
+
+    Commiting the changes
+
+[33mcommit 53200bc5fe5b6bbe5960216b18dc88cba557bdf9[m
+Merge: 87b0f17 f72d909
+Author: Rahul Jadhav <rjadhav@tavisca.com>
+Date:   Thu Feb 12 14:03:50 2015 +0530
+
+    Merge https://github.com/rohitkhalde/FileNameChanger
+
+[33mcommit f72d9097bc1f031d8450a794e131e28587fa7d50[m
+Merge: ff591f6 883cb51
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Thu Feb 12 10:15:20 2015 +0530
+
+    Merge pull request #2 from rohitkhalde/JiraIssueFix123
+    
+    Changes are done as per the extension
+
+[33mcommit 883cb51579fb77b64a303bd2d26deb6c62306351[m
+Author: Rohit K <rohitkhalde@gmail.com>
+Date:   Thu Feb 12 10:10:47 2015 +0530
+
+    changes done as per the suggestion please verify
+
+[33mcommit 3ea213499e784962c2acb157bad59720c994e5dd[m
+Author: Rohit K <rohitkhalde@gmail.com>
+Date:   Thu Feb 12 10:03:13 2015 +0530
+
+    New file added
+
+[33mcommit 87b0f174c8db089429cf19dfaee8141d7a80f1b8[m
+Author: Rahul Jadhav <rjadhav@tavisca.com>
+Date:   Wed Feb 11 14:59:19 2015 +0530
+
+    added test file
+
+[33mcommit ff591f625c6557b29e69f988224b9c288fcbe9a0[m
+Merge: 4b4623c bc8ede5
+Author: rohitkhalde <rohitkhalde@users.noreply.github.com>
+Date:   Wed Feb 11 13:04:24 2015 +0530
+
+    Merge pull request #1 from rahuljadhav/master
+    
+    Changes are good...merging the file
+
+[33mcommit bc8ede5c0c5b3d95404250c7a8c370b8ecf958a7[m
+Author: Rahul Jadhav <rjadhav@tavisca.com>
+Date:   Wed Feb 11 11:57:47 2015 +0530
+
+    newfile updated
+
+[33mcommit 7291c7ed0c6a78661a05289dfc47d2c0f12dfc2c[m
+Author: Rahul Jadhav <rjadhav@tavisca.com>
+Date:   Wed Feb 11 11:55:44 2015 +0530
+
+    readMe file added
+
+[33mcommit 4b4623c43da3cfabc1b9bbb3ab2b311fcc35c957[m
+Author: Rohit K <rohitkhalde@gmail.com>
+Date:   Wed Feb 11 11:31:30 2015 +0530
+
+    Added new file
+
+[33mcommit 042fb39248660629d2e88a2b1553416f2cdb8d16[m
+Author: Rohit K <rohitkhalde@gmail.com>
+Date:   Wed Feb 11 11:02:51 2015 +0530
+
+    Added code in git
